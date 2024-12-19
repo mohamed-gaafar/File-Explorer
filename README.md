@@ -42,7 +42,7 @@ The File Explorer Application is a Windows Forms project that provides an intuit
 ## 5. Screenshot
 Below is an example of the application in use:
 
-![File Explorer Application Screenshot](insert-image-link-here)
+![File Explorer Application Screenshot](display.png)
 
 ---
 
